@@ -1,1 +1,1 @@
-File 3 content
+fix in 3.txt

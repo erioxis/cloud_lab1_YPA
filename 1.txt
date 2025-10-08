@@ -1,2 +1,1 @@
-File 1 content
-new row in 1.txt file
+fix in 1.txt
